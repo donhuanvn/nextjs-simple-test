@@ -1,0 +1,8 @@
+1. Download & extract the starting project.
+2. npm i
+3. npm run dev
+4. ...
+5. Stop
+6. npm run build
+7. npm i mongodb
+8. npm run dev
